@@ -736,7 +736,7 @@ fig.set_size_inches(13.5, 9)
 ```
 
 
-![png](output_25_0.png)
+![png](/assets/images/output_25_0.png)
 
 
 ### BONUS: Create your own question and answer it.
@@ -751,7 +751,7 @@ fig.set_size_inches(13.5, 9)
 ```
 
 
-![png](output_28_0.png)
+![png](/assets/images/output_28_0.png)
 
 
 ### Plot the price-earnings ratio each day. Set the size of the figure to 13.5 x 9 inches
@@ -873,7 +873,7 @@ plt.show() #일일 주가 수익률 그래프
 ```
 
 
-![png](output_32_0.png)
+![png](/assets/images/output_32_0.png)
 
 
 
