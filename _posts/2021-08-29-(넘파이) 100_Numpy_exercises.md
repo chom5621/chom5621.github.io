@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 category: ['ESAA','python','numpy']
 ---
 
