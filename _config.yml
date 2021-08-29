@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "달해 블로그"
+title                    : "Sunny IT Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Munsun Jo"
-description              : "Math & Statistics"
+description              : "Bachelor of Math, Statistics, and Education"
 url                      : "https://chom5621.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "조문선 (Munsun Jo)"
   avatar           : #"/assets/images/bio-photo.jpg"
-  bio              : "Bachelor of **math** & **statistics**"
+  bio              : "Bachelor of Math, Statistics, and Education"
   location         : "Seoul, Korea"
   email            : "chom5621@naver.com"
   links:
