@@ -1,3 +1,8 @@
+---
+layout: category
+category: ESAA
+---
+
 # 100 numpy exercises
 
 This is a collection of exercises that have been collected in the numpy mailing list, on stack overflow
