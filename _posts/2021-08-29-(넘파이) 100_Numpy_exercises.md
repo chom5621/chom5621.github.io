@@ -3,6 +3,7 @@ layout: single
 subtitle: 넘파이 연습문제
 categories: ['ESAA']
 tags: ['python', 'numpy']
+last_modified_at : 2021-03-19
 ---
 
 # 100 numpy exercises
