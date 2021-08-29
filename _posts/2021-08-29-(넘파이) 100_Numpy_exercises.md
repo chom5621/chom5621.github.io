@@ -1,6 +1,6 @@
 ---
-layout: category
-category: ESAA
+layout: post
+category: ['ESAA','python','numpy']
 ---
 
 # 100 numpy exercises
