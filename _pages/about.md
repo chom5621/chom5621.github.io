@@ -1,0 +1,20 @@
+---
+title: "Sunny IT Blog"
+permalink: /about/
+layout: single
+author_profile: true
+toc_sticky: true
+toc_ads : true
+
+---
+
+
+
+## chom5621.github.io 블로그
+
+* 이화여자대학교 수학과 (주전공 & 교직이수), 통계학과 (복수전공) 조문선입니다.
+* 행복을 찾아 모험하는 봉사자입니다. (https://blog.naver.com/chom5621)
+
+* 2021-03 ~ . ESAA 교내 통계 분석 학회
+* 2021-07 ~ 08. K-DATA 데이터 청년 캠퍼스 연세대학교 빅데이터 분석처리 과정
+
