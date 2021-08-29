@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Munsun Jo"
-  avatar           : "/assets/images/bio-photo.jpg"
+  name             : "조문선 (Munsun Jo)"
+  avatar           : #"/assets/images/bio-photo.jpg"
   bio              : "Bachelor of **math** & **statistics**"
   location         : "Seoul, Korea"
   email            : "chom5621@naver.com"
