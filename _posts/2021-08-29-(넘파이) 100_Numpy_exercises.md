@@ -1,8 +1,8 @@
 ---
 layout: single
 subtitle: 넘파이 연습문제
-categories: ['ESAA','python']
-tags: ['numpy']
+categories: [ESAA, python]
+tags: [numpy]
 ---
 
 # 100 numpy exercises
