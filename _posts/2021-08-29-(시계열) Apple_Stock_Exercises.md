@@ -1,3 +1,10 @@
+---
+layout: single
+categories: ['ESAA']
+tags: ['python','time series']
+last_modified_at : 2021-04-08
+---
+
 # Apple Stock
 
 ### Introduction:
