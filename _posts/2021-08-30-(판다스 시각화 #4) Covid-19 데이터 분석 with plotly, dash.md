@@ -1,3 +1,10 @@
+---
+layout: single
+categories: ['K-DATA']
+tags: ['python','plotly','dash']
+last_modified_at : 2021-07-09
+---
+
 ```python
 import pandas as pd
 from pandas import Series, DataFrame
